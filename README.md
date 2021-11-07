@@ -1,2 +1,2 @@
-# payal-website
- neumorphic wbite for payal
+# Payal Nagaonkar portfolio website
+website portfolio project for payal for masters application
