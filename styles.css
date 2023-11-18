@@ -2,10 +2,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Darker+Grotesque:wght@300;400;600;700&family=Inter:wght@100;200&family=Poppins:wght@200;300;400;500&display=swap');
 
 :root {
-    --green: #29CC53;
+    --green: #cf08c8;
     --black: #1c1c1c;
     --light-color: #;
-    --bg-color: #efeeee;
+    --bg-color: #ffffff;
     --border: .1rem solid rgba(0,0,0,.2);
     --box-shadow: -6px -6px 16px rgba(255, 255, 255, 0.5),
                    6px 6px 16px rgba(209, 205, 199, 0.5);
@@ -108,7 +108,7 @@ section{
 }
 
 .header .user p{
-    color: rgb(0, 150, 0);
+    color: #cf08c8;
     font-size: 1.5rem;
     font-weight: 500;
 }
